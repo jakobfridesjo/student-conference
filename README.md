@@ -1,3 +1,3 @@
 # student-conference
 
-Requires Rust, Go, Octave/MATLAB and LaTeX. 
+Requires Rust, Go and Octave/MATLAB.
